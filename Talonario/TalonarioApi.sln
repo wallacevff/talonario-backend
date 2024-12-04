@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{430BACB3-9
 	ProjectSection(SolutionItems) = preProject
 		..\.gitattributes = ..\.gitattributes
 		..\.gitignore = ..\.gitignore
-		commands.txt = commands.txt
+		ApisConsumidas.md = ApisConsumidas.md
+		..\docs\Diagrama_Classes.drawio = ..\docs\Diagrama_Classes.drawio
+		commands.md = commands.md
 		..\LICENSE = ..\LICENSE
 		..\README.md = ..\README.md
 	EndProjectSection

@@ -1,0 +1,10 @@
+@IbgeHostAdress = https://servicodados.ibge.gov.br/api/v1/localidades
+
+GET {{IbgeHostAdress}}/estados
+Accept: application/json
+
+###
+
+GET {{IbgeHostAdress}}/estados/RJ/municipios
+Accept: application/json
+###

@@ -1,0 +1,5 @@
+@IbgeHostAdress = https://viacep.com.br/ws
+
+GET {{IbgeHostAdress}}/24466510/json/
+Accept: application/json
+###
