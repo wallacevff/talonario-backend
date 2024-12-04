@@ -1,0 +1,6 @@
+@Talonario_HostAddress = http://localhost:5179
+
+GET {{Talonario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
